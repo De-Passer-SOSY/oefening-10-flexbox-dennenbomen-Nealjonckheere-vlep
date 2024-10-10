@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
 
-.TreeContainer{
+.TreeContainer {
 
     display: flex;
-    align-items: flex-end;
-    justify-content: space-around ;
-    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+    align-content: space-between;
 }
 
-body{ color green;}
-article {
+body {
 
-
+    background-color: green;
+    font-family: 'protest strike', cursive;
+    font-size: large;
 }
