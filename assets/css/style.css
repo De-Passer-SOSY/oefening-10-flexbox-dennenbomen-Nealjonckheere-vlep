@@ -1,2 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
 
+.TreeContainer{
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around ;
+    gap: 20px;
+}
+
+body{ color green;}
+article {
+
+
+}
