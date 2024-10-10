@@ -6,9 +6,13 @@
     align-items: flex-start;
     flex-direction: column;
     flex-wrap: nowrap;
-    width: 100px;
+
 
 }
+img{
+    width:75%;
+height: 75%}
+
 
 body {
 
@@ -16,4 +20,25 @@ body {
     font-family: 'protest strike', cursive;
     font-size: large;
     color: white;
+}
+
+p, h3 {
+    border: darkolivegreen solid 4px;
+    background: greenyellow;
+    border-radius: 15px;
+    font-size: x-large;
+
+
+
+
+
+}
+
+footer {
+    background-color: darkgreen ;
+    border-color: darkseagreen;
+    color: white;
+    border-radius: 75px;
+    font-size: xx-large;
+
 }
